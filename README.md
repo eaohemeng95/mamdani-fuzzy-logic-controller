@@ -44,13 +44,8 @@ The design involves:
 ## 6. Repository Structure
 
 mamdani-fuzzy-logic-controller/
-│
+├── images/
 ├── model/
-├── matlab/
-├── results/
-├── documentation/
-└── README.md
-
 
 ## 7. How to Run
 
@@ -75,6 +70,6 @@ https://arxiv.org/abs/2108.05450
 
 ## 9. Author
 
-Electrical Engineering Project
+Emmanuel Agyekum Ohemeng 
 
 Developed using MATLAB and Simulink.
