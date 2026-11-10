@@ -40,13 +40,8 @@ The design involves:
 - Fuzzy inference and aggregation.
 - Defuzzification to obtain crisp control outputs.
 
-## 6. Simulation and Results
 
-The controller was implemented and tested in MATLAB/Simulink.
-
-Simulation results and performance analysis will be presented in this section.
-
-## 7. Repository Structure
+## 6. Repository Structure
 
 mamdani-fuzzy-logic-controller/
 │
@@ -55,9 +50,9 @@ mamdani-fuzzy-logic-controller/
 ├── results/
 ├── documentation/
 └── README.md
-```
 
-## 8. How to Run
+
+## 7. How to Run
 
 1. Install MATLAB.
 2. Install the required Simulink and Fuzzy Logic Toolbox components.
@@ -66,7 +61,8 @@ mamdani-fuzzy-logic-controller/
 5. Ensure all supporting files are available.
 6. Run the simulation.
 
-## 9. Research Reference
+
+## 8. Research Reference
 
 This project is based on the research work:
 
@@ -76,7 +72,8 @@ Messaadi, N., & Amroun, A. (2021).
 Research paper:
 https://arxiv.org/abs/2108.05450
 
-## 10. Author
+
+## 9. Author
 
 Electrical Engineering Project
 
